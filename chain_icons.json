@@ -625,7 +625,7 @@
 }, {
   "name": "kakarot",
   "icons": [{
-    "url": "ipfs://QmNTZ9nEomAXK6bLxUbMfTS1TvrsN22HU1zTtxHUpMkUhz",
+    "url": "ipfs://QmQcB7Q2kqVWhJxXmtN9Ri37rcLH9g6z4UCCYqEzgM3XmW",
     "width": 1000,
     "height": 1000,
     "format": "png"
@@ -1375,6 +1375,14 @@
     "format": "png"
   }]
 }, {
+  "name": "peaq",
+  "icons": [{
+    "url": "ipfs://bafybeihnkvboj4n6psjnzn4omaopfekvag4kax22l4agx6zppp7xx3d6ky",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "calypso",
   "icons": [{
     "url": "ipfs://bafybeigyayzxvt7vosat4rtrbmhhnldgx57w2pfbutuniax7h6kswzi42m",
@@ -1695,6 +1703,14 @@
     "format": "png"
   }]
 }, {
+  "name": "neox",
+  "icons": [{
+    "url": "ipfs://QmR3iCrjrW814fyv79UeVimDT4fTeBQcpYgMYxv1U6W15u",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "roburna",
   "icons": [{
     "url": "ipfs://QmTk1uhB9nvnvXifvwEPGFcdgsXRt4EXNjovUGyUmfFRcB",
@@ -1852,6 +1868,14 @@
     "url": "ipfs://QmXvHWmjfXKdZMSz7x82NR4SjEqigKdJELVHbnzUPkj17F",
     "width": 512,
     "height": 512,
+    "format": "svg"
+  }]
+}, {
+  "name": "cipherem",
+  "icons": [{
+    "url": "ipfs://QmP8oHKtqUiSxmNcZMFMy5DSFCZQm17uF32FEHojx8HQ5z",
+    "width": 118,
+    "height": 118,
     "format": "svg"
   }]
 }, {
@@ -4367,6 +4391,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mazze",
+  "icons": [{
+    "url": "ipfs://QmaR9Ud3aD7RaHYdsi3TdC1qx4zVusM76nd91s3Ghaz5fa",
+    "width": 400,
+    "height": 400,
+    "format": "png"
+  }]
+}, {
   "name": "gonchain",
   "icons": [{
     "url": "ipfs://QmPtiJGaApbW3ATZhPW3pKJpw3iGVrRGsZLWhrDKF9ZK18",
@@ -4943,6 +4975,14 @@
     "format": "png"
   }]
 }, {
+  "name": "jaihoIcon",
+  "icons": [{
+    "url": "ipfs://QmUtKXY4N9kNCs9hAkAyi1nsvMWvDzs5vUjgYXTJoZCYqu",
+    "width": 450,
+    "height": 450,
+    "format": "png"
+  }]
+}, {
   "name": "amc",
   "icons": [{
     "url": "ipfs://Qmb6VAhhtaJmdaW1j7PAjxaLju1V24PPDFBdXtebyTSfsZ",
@@ -5325,6 +5365,14 @@
     "width": 1600,
     "height": 1600,
     "format": "png"
+  }]
+}, {
+  "name": "cipherscan",
+  "icons": [{
+    "url": "ipfs://QmUrWn3VG9Jmg2GToV1dqwZUYwLZHU8daZSXEURs5o6xwt",
+    "width": 118,
+    "height": 118,
+    "format": "svg"
   }]
 }, {
   "name": "gtc",
