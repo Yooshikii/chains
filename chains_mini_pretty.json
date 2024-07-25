@@ -8410,6 +8410,19 @@
   "faucets": [],
   "infoURL": "https://findora.org/"
 }, {
+  "name": "Animechain Testnet",
+  "chainId": 2162,
+  "shortName": "animechaint",
+  "networkId": 2162,
+  "nativeCurrency": {
+    "name": "Coin",
+    "symbol": "COIN",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.kanda.animechain.ai"],
+  "faucets": [],
+  "infoURL": "https://animechain.ai"
+}, {
   "name": "Moonsama Network",
   "chainId": 2199,
   "shortName": "msn",
@@ -16531,7 +16544,7 @@
     "symbol": "BTC",
     "decimals": 18
   },
-  "rpc": ["https://rpc.orangechain.xyz"],
+  "rpc": ["https://rpc.orangechain.xyz", "https://hk-rpc.orangechain.xyz"],
   "faucets": [],
   "infoURL": "https://orangechain.xyz"
 }, {
@@ -16664,6 +16677,19 @@
   "rpc": ["https://subnets.avax.network/plyr/testnet/rpc"],
   "faucets": ["https://faucet.avax.network/?subnet=plyr"],
   "infoURL": "https://plyr.network"
+}, {
+  "name": "LAOS Sigma Testnet",
+  "chainId": 62850,
+  "shortName": "laossigma",
+  "networkId": 62850,
+  "nativeCurrency": {
+    "name": "SIGMA",
+    "symbol": "SIGMA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.laossigma.laosfoundation.io", "wss://rpc.laossigma.laosfoundation.io"],
+  "faucets": [],
+  "infoURL": "https://laosnetwork.io"
 }, {
   "name": "eCredits Mainnet",
   "chainId": 63000,
@@ -18172,6 +18198,19 @@
   "rpc": ["https://testnet-l2-ethapi.quarkchain.io"],
   "faucets": [],
   "infoURL": "https://www.quarkchain.io"
+}, {
+  "name": "MARS Credit",
+  "chainId": 110110,
+  "shortName": "mars",
+  "networkId": 110110,
+  "nativeCurrency": {
+    "name": "Mars",
+    "symbol": "MARS",
+    "decimals": 18
+  },
+  "rpc": ["https://node99-production-dd5f.up.railway.app:443"],
+  "faucets": [],
+  "infoURL": "https://marscredit.xyz/"
 }, {
   "name": "Siberium Test Network",
   "chainId": 111000,
@@ -22524,7 +22563,7 @@
     "symbol": "GS-ETH",
     "decimals": 18
   },
-  "rpc": ["https://gitswarm.com:2096"],
+  "rpc": ["https://testnet.gitswarm.com:2096"],
   "faucets": [],
   "infoURL": "https://gitswarm.com/"
 }, {
